@@ -1,0 +1,34 @@
+{
+  "name": "com.solisgames.sdk",
+  "version": "1.0.0",
+  "displayName": "Solis Games SDK",
+  "description": "Unity WebGL integration for Solis Games platform - Native C# API with async/await support for ads, analytics, cloud saves, leaderboards, tournaments, achievements, friends, and chat",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "webgl",
+    "ads",
+    "analytics",
+    "leaderboards",
+    "tournaments",
+    "achievements",
+    "social",
+    "chat",
+    "monetization"
+  ],
+  "author": {
+    "name": "Solis Interactive",
+    "email": "support@solisgames.com",
+    "url": "https://solisgames.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solis-interactive/unity-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solis-interactive/unity-sdk/issues"
+  },
+  "homepage": "https://solisgames.com/docs/unity",
+  "dependencies": {}
+}
