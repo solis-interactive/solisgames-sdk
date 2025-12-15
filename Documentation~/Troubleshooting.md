@@ -766,7 +766,7 @@ If your issue isn't listed here:
    - `Samples~/FullFeatures/` - Complete integration example
 
 3. **Community Support:**
-   - Discord: https://discord.gg/solisgames
+   - Discord: https://discord.gg/TZdBFBhW
    - GitHub Issues: https://github.com/solis-interactive/unity-sdk/issues
 
 4. **Contact Support:**

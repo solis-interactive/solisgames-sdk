@@ -46,7 +46,7 @@ Game data saved to cloud!
 
 - Check out the **FullFeatures** sample for advanced usage
 - Read the [API Reference](../../Documentation~/API-Reference.md) for complete documentation
-- Join our Discord: https://discord.gg/solisgames
+- Join our Discord: https://discord.gg/TZdBFBhW
 
 ## Files
 
@@ -56,5 +56,5 @@ Game data saved to cloud!
 ## Need Help?
 
 - Documentation: https://solisgames.com/docs/unity
-- Discord: https://discord.gg/solisgames
+- Discord: https://discord.gg/TZdBFBhW
 - Support: support@solisgames.com

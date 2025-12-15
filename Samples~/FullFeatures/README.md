@@ -268,5 +268,5 @@ await SolisSDK.CloudSave.SaveAsync<MyGameData>("key", data);
 
 - **Quick Start:** Check the QuickStart sample for simpler examples
 - **Documentation:** https://solisgames.com/docs/unity
-- **Discord:** https://discord.gg/solisgames
+- **Discord:** https://discord.gg/TZdBFBhW
 - **Support:** support@solisgames.com

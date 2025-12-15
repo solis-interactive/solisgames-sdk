@@ -498,7 +498,7 @@ If you encounter issues during migration:
 1. Check [Troubleshooting.md](Troubleshooting.md) for common issues
 2. Review [API Reference](API-Reference.md) for correct method signatures
 3. Check example projects in `Samples~/` folder
-4. Join Discord: https://discord.gg/solisgames
+4. Join Discord: https://discord.gg/TZdBFBhW
 5. Submit issue: https://github.com/solis-interactive/unity-sdk/issues
 
 ---
@@ -506,6 +506,6 @@ If you encounter issues during migration:
 ## Need More Help?
 
 - **Documentation:** https://solisgames.com/docs/unity
-- **Discord Community:** https://discord.gg/solisgames
+- **Discord Community:** https://discord.gg/TZdBFBhW
 - **GitHub Issues:** https://github.com/solis-interactive/unity-sdk/issues
 - **Email Support:** support@solisgames.com

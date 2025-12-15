@@ -1322,5 +1322,5 @@ For complete, runnable example projects:
 
 - **API Reference:** [API-Reference.md](API-Reference.md)
 - **Troubleshooting:** [Troubleshooting.md](Troubleshooting.md)
-- **Discord:** https://discord.gg/solisgames
+- **Discord:** https://discord.gg/TZdBFBhW
 - **Support:** support@solisgames.com
